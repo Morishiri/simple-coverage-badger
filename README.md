@@ -4,7 +4,7 @@
 
 ## Usage
 ```
-$ index.js [options]
+$ scb [options]
 
 Options:
   --help                  Show help                                                                            [boolean]

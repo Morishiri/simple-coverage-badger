@@ -2,12 +2,15 @@
   "name": "simple-coverage-badger",
   "version": "0.2.2",
   "description": "Simple coverage badger with some customization options",
-  "main": "index.js",
+  "main": "lib/badger.js",
   "scripts": {
     "lint": "eslint lib/**/*.js test/**/*.js",
     "test": "mocha",
     "coverage": "nyc --reporter=cobertura --reporter=text --reporter=html npm test",
     "release": "standard-version"
+  },
+  "bin": {
+    "scb": "index.js"
   },
   "repository": {
     "type": "git",
