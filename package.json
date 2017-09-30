@@ -1,6 +1,6 @@
 {
   "name": "simple-coverage-badger",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Simple coverage badger with some customization options",
   "main": "lib/badger.js",
   "scripts": {

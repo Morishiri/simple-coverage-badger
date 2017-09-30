@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.4"></a>
+## [0.2.4](https://github.com/Morishiri/simple-coverage-badger/compare/v0.2.3...v0.2.4) (2017-09-30)
+
+
+### Bug Fixes
+
+* **cli:** default callback added ([7dc9b3e](https://github.com/Morishiri/simple-coverage-badger/commit/7dc9b3e))
+
+
+
 <a name="0.2.3"></a>
 ## [0.2.3](https://github.com/Morishiri/simple-coverage-badger/compare/v0.2.2...v0.2.3) (2017-09-30)
 
