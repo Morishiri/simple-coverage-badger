@@ -21,6 +21,3 @@ Options:
   --style, -s             Badge style   [string] [choices: "plastic", "flat-square", "flat", "social"] [default: "flat"]
   --text, -t              Text on the left side of badge                                  [string] [default: "coverage"]
 ```
-## Please read
-
-This repository contains module which is not yet finished, nor properly tested etc. Use on your own responsibility.

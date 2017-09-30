@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint lib/**/*.js test/**/*.js",
     "test": "mocha",
-    "coverage": "nyc --reporter=cobertura --reporter=text --reporter=html npm test"
+    "coverage": "nyc --reporter=cobertura --reporter=text --reporter=html npm test",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
