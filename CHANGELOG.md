@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/Morishiri/simple-coverage-badger/compare/v0.2.0...v0.2.1) (2017-09-30)
+
+
+### Bug Fixes
+
+* **polyfill:** added Object.values polyfill for node 6 ([514a555](https://github.com/Morishiri/simple-coverage-badger/commit/514a555))
+
+
+
 <a name="0.2.0"></a>
 # 0.2.0 (2017-09-30)
 
