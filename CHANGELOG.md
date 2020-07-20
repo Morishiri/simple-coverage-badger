@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/Morishiri/simple-coverage-badger/compare/v0.2.6...v0.3.0) (2020-07-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ci:** Drop support for Node 8
+
+### feature
+
+* **ci:** Disable travis CI for node 8 ([5f8c7a0](https://github.com/Morishiri/simple-coverage-badger/commit/5f8c7a04500e692727eea33bc26bf28350f4dacb))
+
 ### [0.2.6](https://github.com/Morishiri/simple-coverage-badger/compare/v0.2.4...v0.2.6) (2020-07-20)
 
 <a name="0.2.4"></a>
